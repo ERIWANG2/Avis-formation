@@ -1,0 +1,12 @@
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\bin\Debug\Avisformation.Data.dll.config
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\bin\Debug\Avisformation.Data.dll
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\bin\Debug\Avisformation.Data.pdb
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\bin\Debug\EntityFramework.dll
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\bin\Debug\EntityFramework.xml
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\obj\Debug\Avisformation.Data.csprojAssemblyReference.cache
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\obj\Debug\Avisformation.Data.csproj.CoreCompileInputs.cache
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\obj\Debug\Avisformation.Data.csproj.CopyComplete
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\obj\Debug\Avisformation.Data.dll
+E:\formation ASP\avisformation\AvisFormation.WebUi\Avisformation.Data\obj\Debug\Avisformation.Data.pdb
